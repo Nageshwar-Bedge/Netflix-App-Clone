@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Netflix Clone</h1>
 
-<p align="center"><img src="[https://socialify.git.ci/swapnilkr/Netflix/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="DHUN-Music-Player-V2](https://socialify.git.ci/Nageshwar-Bedge/Netflix-App-Clone/image?font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light)" width="640" height="180" /></p>
+<p align="center"><img src="(https://socialify.git.ci/Nageshwar-Bedge/Netflix-App-Clone/image?font=Inter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light)" width="640" height="180" /></p>
 
 <p id="description">This project is a Netflix clone developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a platform for users to browse movies and TV shows, register an account, and enjoy streaming services akin to Netflix.</p>
 
