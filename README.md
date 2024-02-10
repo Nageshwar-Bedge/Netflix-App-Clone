@@ -32,8 +32,7 @@ Here're some of the project's best features:
 <p>1. Clone this project</p>
 
 ```
-https://github.com/swapnilkr/Netflix.git
-```
+(https://github.com/Nageshwar-Bedge/Netflix-App-Clone.git)
 
 <p>2. Change the directory</p>
 
@@ -77,15 +76,14 @@ Technologies used in the project:
 Contributions, issues and feature requests are welcome.
 
 <h2> Author </h2>
-<h3 align="center">Hi 👋, I'm Swapnil</h3>
+<h3 align="center">Hi 👋, I'm Nagesh</h3>
 <hr>
 <h4 align="center">A passionate full stack web developer.</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/swapnilkr](https://github.com/swapnilkr)
+- 👨‍💻 All of my projects are available at [https://github.com/swapnilkr](https://github.com/Nageshwar-Bedge)
 
-- 📫 How to reach me **swapnilkr099@gmail.com**
+- 📫 How to reach me **nageshwarbedge17@gmail.com**
 
-- 📄 Know about my experiences [https://swapnilkr.github.io/Build-Your-Virtual-Resume/](https://swapnilkr.github.io/Build-Your-Virtual-Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
