@@ -33,7 +33,7 @@ Here're some of the project's best features:
 
 ```
 (https://github.com/Nageshwar-Bedge/Netflix-App-Clone.git)
-
+```
 <p>2. Change the directory</p>
 
 ```
