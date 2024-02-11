@@ -80,8 +80,7 @@ Contributions, issues and feature requests are welcome.
 <hr>
 <h4 align="center">A passionate full stack web developer.</h4>
 
-- 👨‍💻 All of my projects are available at (https://github.com/Nageshwar-Bedge)
-
+- 👨‍💻 All of my projects are available at [https://github.com/Nageshwar-Bedge]
 - 📫 How to reach me **nageshwarbedge17@gmail.com**
 
 
