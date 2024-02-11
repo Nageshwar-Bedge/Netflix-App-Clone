@@ -86,11 +86,12 @@ Contributions, issues and feature requests are welcome.
 
 
 <div style="text-align: center;">
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://twitter.com/nagesh_bedge_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagesh_bedge_17" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/bedge-nageshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedge-nageshwar" height="30" width="40" /></a>
-        <a href="https://instagram.com/nagesh_._bedge_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagesh_._bedge_17" height="30" width="40" /></a>
+    <h3>Connect with me:</h3>
+    <p>
+        <a href="https://twitter.com/nagesh_bedge_17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagesh_bedge_17" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/bedge-nageshwar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedge-nageshwar" height="30" width="40" /></a>
+        <a href="https://instagram.com/nagesh_._bedge_17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagesh_._bedge_17" height="30" width="40" /></a>
     </p>
 </div>
+
 
